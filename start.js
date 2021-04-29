@@ -33,3 +33,6 @@ const person = {
 
 person.print();
 person.getLength();
+
+const size = Object.keys(person).length;
+// console.log(size) this also returns 7
