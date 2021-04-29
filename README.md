@@ -4,8 +4,8 @@
 1. Create the following object: 
 ```javascript
 const student = { 
-  firstName: "John", 
-  lastName: "Smith", 
+  firstName: "John",
+  lastName: "Smith",
   class: 12,
 };
 ```
@@ -19,4 +19,4 @@ const student = {
 
 ## Bonus
 
-3. Write a method to get the length of the person object.
+4. Write a method to get the length of the person object.
